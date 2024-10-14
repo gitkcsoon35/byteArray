@@ -21,9 +21,8 @@ public class Main {
             byteArray("C:\\Users\\P21911001\\Downloads\\licenseUpdate_55.eci");
             byteArray("C:\\Users\\P21911001\\Downloads\\licenseUpdate2_55.eci");
             System.out.println("Hello world!");
-            System.out.println("Hello world!");
-            System.out.println("Hello world!");
-            System.out.println("Hello world!");
+            System.out.println("Hello world 2!");
+            System.out.println("Hello world 3!");
 
         } else if (gubun == "2") {
             contractNumber();
