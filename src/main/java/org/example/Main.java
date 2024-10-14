@@ -15,8 +15,8 @@ public class Main {
         String gubun = "1";
 
         if (gubun == "1") {
-//            byteArray("C:\\Users\\P21911001\\Downloads\\licenseInsert_111.eci");
-//            byteArray("C:\\Users\\P21911001\\Downloads\\licenseUpdate_111.eci");
+            byteArray("C:\\Users\\P21911001\\Downloads\\licenseInsert_111.eci");
+            byteArray("C:\\Users\\P21911001\\Downloads\\licenseUpdate_111.eci");
             byteArray("C:\\Users\\P21911001\\Downloads\\licenseInsert_55.eci");
             byteArray("C:\\Users\\P21911001\\Downloads\\licenseUpdate_55.eci");
             byteArray("C:\\Users\\P21911001\\Downloads\\licenseUpdate2_55.eci");
