@@ -1,0 +1,71 @@
+{
+    "dccId": "1111",
+    "dccIp": "192.168.20.55",
+    "endUserIdx": "15114",
+    "fileIssueDate": "2024-07-24 17:15:46",
+    "licenseList": [
+        {
+            "contractInfo": {
+                "lmsKeyIdx": "11",
+                "contractNumber": "T202312007001",
+                "busiType": "Product",
+                "contractPeriodStart": "",
+                "contractPeriodExpiration": ""
+            },
+            "licenseInfo": {
+                "productCategory1": "D'Amo",
+                "productCategory2": "BA-SCP",
+                "licenseVersion": "5.0",
+                "licenseType": "commercial",
+                "licenseNumber": "DEV15062023-0000045001",
+                "licenseValidation": {
+                    "licensePeriodStart": "2024-07-23",
+                    "licensePeriodExpiration": "2024-10-23",
+                    "features": {
+                        "core": "11"
+                    }
+                },
+                "licenseOption": {
+                    "symmetricKeyEncryptionAPI": "All",
+                    "publicKeyEncryptionAPI": "All",
+                    "keWinAPI": "true",
+                    "encryptionAPI": "true",
+                    "exportKey": "true",
+                    "encryptionPrivilege": "false"
+                }
+            }
+        },
+        {
+            "contractInfo": {
+                "lmsKeyIdx": "222",
+                "contractNumber": "T202312007002",
+                "busiType": "Product",
+                "contractPeriodStart": "",
+                "contractPeriodExpiration": ""
+            },
+            "licenseInfo": {
+                "productCategory1": "D'Amo",
+                "productCategory2": "BA-SCP",
+                "licenseVersion": "5.0",
+                "licenseType": "commercial",
+                "licenseNumber": "DEV15062023-0000045002",
+                "licenseValidation": {
+                    "features": {
+                        "core": "22"
+                    },
+                    "licensePeriodStart": "2024-07-23",
+                    "licensePeriodExpiration": "2024-10-23"
+                },
+                "licenseOption": {
+                    "symmetricKeyEncryptionAPI": "All",
+                    "publicKeyEncryptionAPI": "All",
+                    "keWinAPI": "true",
+                    "encryptionAPI": "true",
+                    "exportKey": "true",
+                    "encryptionPrivilege": "false"
+                }
+            }
+        }
+    ]
+}
+e8b3e00eb02df18691e1ddc43146cb6d2041b5204eefc208d42999d10b54c51d

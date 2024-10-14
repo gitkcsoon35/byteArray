@@ -1,0 +1,164 @@
+{
+    "dccId": "1111",
+    "dccIp": "192.168.20.55",
+    "endUserIdx": "15114",
+    "fileIssueDate": "2024-07-09 15:45:26",
+    "licenseList": [
+        {
+            "contractInfo": {
+                "lmsKeyIdx": "1",
+                "contractNumber": "T202312007001",
+                "busiType": "Product",
+                "contractPeriodStart": "",
+                "contractPeriodExpiration": ""
+            },
+            "licenseInfo": {
+                "productCategory1": "D'Amo",
+                "productCategory2": "BA-SCP",
+                "licenseVersion": "5.0",
+                "licenseType": "commercial",
+                "licenseNumber": "DEV15062023-0000045001",
+                "licenseValidation": {
+                    "features": {
+                        "core": "1"
+                    },
+                    "licensePeriodStart": "2024-07-09",
+                    "licensePeriodExpiration": "2024-10-09"
+                },
+                "licenseOption": {
+                    "symmetricKeyEncryptionAPI": "All",
+                    "publicKeyEncryptionAPI": "All",
+                    "keWinAPI": "true",
+                    "encryptionAPI": "true",
+                    "exportKey": "true",
+                    "encryptionPrivilege": "false"
+                }
+            }
+        },
+        {
+            "contractInfo": {
+                "lmsKeyIdx": "2",
+                "contractNumber": "T202312007002",
+                "busiType": "Product",
+                "contractPeriodStart": "",
+                "contractPeriodExpiration": ""
+            },
+            "licenseInfo": {
+                "productCategory1": "D'Amo",
+                "productCategory2": "BA-SCP",
+                "licenseVersion": "5.0",
+                "licenseType": "commercial",
+                "licenseNumber": "DEV15062023-0000045002",
+                "licenseValidation": {
+                    "licensePeriodStart": "2024-07-09",
+                    "licensePeriodExpiration": "2024-10-09",
+                    "features": {
+                        "core": "2"
+                    }
+                },
+                "licenseOption": {
+                    "symmetricKeyEncryptionAPI": "All",
+                    "publicKeyEncryptionAPI": "All",
+                    "keWinAPI": " true",
+                    "encryptionAPI": " true",
+                    "exportKey": " true",
+                    "encryptionPrivilege": "false"
+                }
+            }
+        },
+        {
+            "contractInfo": {
+                "lmsKeyIdx": "3",
+                "contractNumber": "T202312007003",
+                "busiType": "Product",
+                "contractPeriodStart": "",
+                "contractPeriodExpiration": ""
+            },
+            "licenseInfo": {
+                "productCategory1": "D'Amo",
+                "productCategory2": "BA-SCP",
+                "licenseVersion": "5.0",
+                "licenseType": "commercial",
+                "licenseNumber": "DEV15062023-0000045003",
+                "licenseValidation": {
+                    "features": {
+                        "core": "3"
+                    },
+                    "licensePeriodStart": "2024-07-09",
+                    "licensePeriodExpiration": "2024-10-09"
+                },
+                "licenseOption": {
+                    "symmetricKeyEncryptionAPI": "All",
+                    "publicKeyEncryptionAPI": "All",
+                    "keWinAPI": "true",
+                    "encryptionAPI": "true",
+                    "exportKey": "true",
+                    "encryptionPrivilege": "false"
+                }
+            }
+        },
+        {
+            "contractInfo": {
+                "lmsKeyIdx": "4",
+                "contractNumber": "T202312007004",
+                "busiType": "Product",
+                "contractPeriodStart": "",
+                "contractPeriodExpiration": ""
+            },
+            "licenseInfo": {
+                "productCategory1": "D'Amo",
+                "productCategory2": "BA-SCP",
+                "licenseVersion": "5.0",
+                "licenseType": "commercial",
+                "licenseNumber": "DEV15062023-0000045004",
+                "licenseValidation": {
+                    "features": {
+                        "core": "4"
+                    },
+                    "licensePeriodStart": "2024-07-09",
+                    "licensePeriodExpiration": "2024-10-09"
+                },
+                "licenseOption": {
+                    "symmetricKeyEncryptionAPI": "All",
+                    "publicKeyEncryptionAPI": "All",
+                    "keWinAPI": "true",
+                    "encryptionAPI": "true",
+                    "exportKey": "true",
+                    "encryptionPrivilege": "false"
+                }
+            }
+        },
+        {
+            "contractInfo": {
+                "lmsKeyIdx": "5",
+                "contractNumber": "T202312007005",
+                "busiType": "Product",
+                "contractPeriodStart": "",
+                "contractPeriodExpiration": ""
+            },
+            "licenseInfo": {
+                "productCategory1": "D'Amo",
+                "productCategory2": "BA-SCP",
+                "licenseVersion": "5.0",
+                "licenseType": "commercial",
+                "licenseNumber": "DEV15062023-0000045005",
+                "licenseValidation": {
+                    "licensePeriodStart": "2024-07-09",
+                    "licensePeriodExpiration": "2024-10-09",
+                    "features": {
+                        "core": "5"
+                    }
+                },
+                "licenseOption": {
+                    "symmetricKeyEncryptionAPI": "All",
+                    "publicKeyEncryptionAPI": "All",
+                    "keWinAPI": "true",
+                    "encryptionAPI": "true",
+                    "exportKey": "true",
+                    "encryptionPrivilege": "false"
+                }
+            }
+        }
+    ]
+}
+a27b1becd63e5e8229fbee792e011f3d9a2de3ccecb6bd6013ac1a8f05c5e4c4

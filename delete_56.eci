@@ -1,0 +1,109 @@
+{
+    "dccId": "1111",
+    "dccIp": "192.168.20.56",
+    "endUserIdx": "15114",
+    "fileIssueDate": "2024-04-08 11:56:06",
+    "licenseList": [
+        {
+            "contractInfo": {
+                "lmsKeyIdx": "1",
+                "contractNumber": "T202312007001",
+                "busiType": "Product",
+                "contractPeriodStart": "",
+                "contractPeriodExpiration": ""
+            },
+            "licenseInfo": {
+                "productCategory1": "D'Amo",
+                "productCategory2": "BA-SCP",
+                "licenseVersion": "5.0",
+                "licenseType": "commercial",
+                "licenseNumber": "15062023-0000045001",
+                "licenseValidation": {
+                    "productId": "1111",
+                    "features": {
+                        "core": "1"
+                    },
+                    "licensePeriodStart": "2024-04-04",
+                    "licensePeriodExpiration": "2024-04-30"
+                },
+                "licenseOption": {}
+            }
+        },
+        {
+            "contractInfo": {
+                "lmsKeyIdx": "2",
+                "contractNumber": "T202312007002",
+                "busiType": "Product",
+                "contractPeriodStart": "",
+                "contractPeriodExpiration": ""
+            },
+            "licenseInfo": {
+                "productCategory1": "D'Amo",
+                "productCategory2": "BA-SCP",
+                "licenseVersion": "5.0",
+                "licenseType": "commercial",
+                "licenseNumber": "15062023-0000045002",
+                "licenseValidation": {
+                    "productId": "1111",
+                    "features": {
+                        "core": "2"
+                    },
+                    "licensePeriodStart": "2024-04-04",
+                    "licensePeriodExpiration": "2024-04-30"
+                },
+                "licenseOption": {}
+            }
+        },
+        {
+            "contractInfo": {
+                "lmsKeyIdx": "33",
+                "contractNumber": "T202312007003",
+                "busiType": "Product",
+                "contractPeriodStart": "",
+                "contractPeriodExpiration": ""
+            },
+            "licenseInfo": {
+                "productCategory1": "D'Amo",
+                "productCategory2": "BA-SCP",
+                "licenseVersion": "5.0",
+                "licenseType": "commercial",
+                "licenseNumber": "15062023-0000045003",
+                "licenseValidation": {
+                    "productId": "1111",
+                    "features": {
+                        "core": "33"
+                    },
+                    "licensePeriodStart": "2024-04-04",
+                    "licensePeriodExpiration": "2024-04-30"
+                },
+                "licenseOption": {}
+            }
+        },
+        {
+            "contractInfo": {
+                "lmsKeyIdx": "44",
+                "contractNumber": "T202312007004",
+                "busiType": "Product",
+                "contractPeriodStart": "",
+                "contractPeriodExpiration": ""
+            },
+            "licenseInfo": {
+                "productCategory1": "D'Amo",
+                "productCategory2": "BA-SCP",
+                "licenseVersion": "5.0",
+                "licenseType": "commercial",
+                "licenseNumber": "15062023-0000045004",
+                "licenseValidation": {
+                    "productId": "1111",
+                    "features": {
+                        "core": "44"
+                    },
+                    "licensePeriodStart": "2024-04-04",
+                    "licensePeriodExpiration": "2024-04-30"
+                },
+                "licenseOption": {}
+            }
+        }
+    ]
+}
+9ab48050a258ec30d35f586eb8fffd1d4ee19ec78c13c257bb3002f437d226e3

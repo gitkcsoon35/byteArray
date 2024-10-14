@@ -1,0 +1,159 @@
+{
+    "dccId": "test",
+    "dccIp": "192.168.20.55",
+    "endUserIdx": "15114",
+    "fileIssueDate": "2024-03-13 09:40:23",
+    "licenseList": [
+        {
+            "contractInfo": {
+                "lmsKeyIdx": "1",
+                "contractNumber": "T202312007001",
+                "busiType": "Product",
+                "contractPeriodStart": "",
+                "contractPeriodExpiration": ""
+            },
+            "licenseInfo": {
+                "productCategory1": "D'Amo",
+                "productCategory2": "BA-P11",
+                "licenseVersion": "5.0",
+                "licenseType": "commercial",
+                "licenseNumber": "15062023-0000045001",
+                "licenseValidation": {
+                    "productId": "test",
+                    "features": {
+                        "core": "1"
+                    },
+                    "licensePeriodStart": "2024-03-13",
+                    "licensePeriodExpiration": "2024-03-31"
+                },
+                "licenseOption": {}
+            }
+        },
+        {
+            "contractInfo": {
+                "lmsKeyIdx": "2",
+                "contractNumber": "T202312007002",
+                "busiType": "Product",
+                "contractPeriodStart": "",
+                "contractPeriodExpiration": ""
+            },
+            "licenseInfo": {
+                "productCategory1": "D'Amo",
+                "productCategory2": "BA-P11",
+                "licenseVersion": "5.0",
+                "licenseType": "commercial",
+                "licenseNumber": "15062023-0000045002",
+                "licenseValidation": {
+                    "productId": "test",
+                    "features": {
+                        "core": "2"
+                    },
+                    "licensePeriodStart": "2024-03-13",
+                    "licensePeriodExpiration": "2024-03-31"
+                },
+                "licenseOption": {}
+            }
+        },
+        {
+            "contractInfo": {
+                "lmsKeyIdx": "3",
+                "contractNumber": "T202312007003",
+                "busiType": "Product",
+                "contractPeriodStart": "",
+                "contractPeriodExpiration": ""
+            },
+            "licenseInfo": {
+                "productCategory1": "D'Amo",
+                "productCategory2": "BA-P11",
+                "licenseVersion": "5.0",
+                "licenseType": "commercial",
+                "licenseNumber": "15062023-0000045003",
+                "licenseValidation": {
+                    "productId": "test",
+                    "features": {
+                        "core": "3"
+                    },
+                    "licensePeriodStart": "2024-03-13",
+                    "licensePeriodExpiration": "2024-03-31"
+                },
+                "licenseOption": {}
+            }
+        },
+        {
+            "contractInfo": {
+                "lmsKeyIdx": "4",
+                "contractNumber": "T202312007004",
+                "busiType": "Product",
+                "contractPeriodStart": "",
+                "contractPeriodExpiration": ""
+            },
+            "licenseInfo": {
+                "productCategory1": "D'Amo",
+                "productCategory2": "BA-P11",
+                "licenseVersion": "5.0",
+                "licenseType": "commercial",
+                "licenseNumber": "15062023-0000045004",
+                "licenseValidation": {
+                    "productId": "test",
+                    "features": {
+                        "core": "4"
+                    },
+                    "licensePeriodStart": "2024-03-13",
+                    "licensePeriodExpiration": "2024-03-31"
+                },
+                "licenseOption": {}
+            }
+        },
+        {
+            "contractInfo": {
+                "lmsKeyIdx": "5",
+                "contractNumber": "T202312007005",
+                "busiType": "Product",
+                "contractPeriodStart": "",
+                "contractPeriodExpiration": ""
+            },
+            "licenseInfo": {
+                "productCategory1": "D'Amo",
+                "productCategory2": "BA-P11",
+                "licenseVersion": "5.0",
+                "licenseType": "commercial",
+                "licenseNumber": "15062023-0000045005",
+                "licenseValidation": {
+                    "productId": "test",
+                    "features": {
+                        "core": "5"
+                    },
+                    "licensePeriodStart": "2024-03-13",
+                    "licensePeriodExpiration": "2024-03-31"
+                },
+                "licenseOption": {}
+            }
+        },
+        {
+            "contractInfo": {
+                "lmsKeyIdx": "6",
+                "contractNumber": "T202312007006",
+                "busiType": "Product",
+                "contractPeriodStart": "",
+                "contractPeriodExpiration": ""
+            },
+            "licenseInfo": {
+                "productCategory1": "D'Amo",
+                "productCategory2": "BA-P11",
+                "licenseVersion": "5.0",
+                "licenseType": "commercial",
+                "licenseNumber": "15062023-0000045006",
+                "licenseValidation": {
+                    "productId": "test",
+                    "features": {
+                        "core": "6"
+                    },
+                    "licensePeriodStart": "2024-03-13",
+                    "licensePeriodExpiration": "2024-03-31"
+                },
+                "licenseOption": {}
+            }
+        }
+    ]
+}
+0acf6c6b18fe9e9f5890308cd698ef9a6b38dcea093820a6e3c72cac7c158ca2

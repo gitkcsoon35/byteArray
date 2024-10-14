@@ -1,0 +1,40 @@
+{
+    "dccId": "1111",
+    "dccIp": "192.168.20.55",
+    "endUserIdx": "15114",
+    "fileIssueDate": "2024-07-02 15:45:26",
+    "licenseList": [
+        {
+            "contractInfo": {
+                "lmsKeyIdx": "1",
+                "contractNumber": "T202312007001",
+                "busiType": "Product",
+                "contractPeriodStart": "",
+                "contractPeriodExpiration": ""
+            },
+            "licenseInfo": {
+                "productCategory1": "D'Amo",
+                "productCategory2": "BA-SCP",
+                "licenseVersion": "5.0",
+                "licenseType": "commercial",
+                "licenseNumber": "DEV15062023-0000045001",
+                "licenseValidation": {
+                    "features": {
+                        "core": "1"
+                    },
+                    "licensePeriodStart": "2024-07-02",
+                    "licensePeriodExpiration": "2024-07-02"
+                },
+                "licenseOption": {
+                    "symmetricKeyEncryptionAPI": "ALL",
+                    "publicKeyEncryptionAPI": "ALL",
+                    "keWinAPI": "true",
+                    "encryptionAPI": "true",
+                    "exportKey": "true",
+                    "encryptionPrivilege": "false"
+                }
+            }
+        }
+    ]
+}
+48fb0e3d6e9db8dbf99ef84bffb052c7f876cb404676110fb5ac500462893d52

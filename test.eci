@@ -1,0 +1,34 @@
+{
+    "dccId": "test",
+    "dccIp": "192.168.20.55",
+    "endUserIdx": "15114",
+    "fileIssueDate": "2024-03-16 11:30:22",
+    "licenseList": [
+        {
+            "contractInfo": {
+                "lmsKeyIdx": "12",
+                "contractNumber": "T202312007002",
+                "busiType": "Product",
+                "contractPeriodStart": "",
+                "contractPeriodExpiration": ""
+            },
+            "licenseInfo": {
+                "productCategory1": "D'Amo",
+                "productCategory2": "BA-P11",
+                "licenseVersion": "5.0",
+                "licenseType": "commercial",
+                "licenseNumber": "15062023-0000045002",
+                "licenseValidation": {
+                    "productId": "test",
+                    "features": {
+                        "core": "222"
+                    },
+                    "licensePeriodStart": "2024-03-08",
+                    "licensePeriodExpiration": "2024-03-31"
+                },
+                "licenseOption": {}
+            }
+        }
+    ]
+}
+0a8b98d94882639e8c7c544326050286c87a7f349e54ad0faf1dd8f26f553198
