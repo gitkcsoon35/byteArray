@@ -19,7 +19,7 @@ public class Main {
 //            byteArray("C:\\Users\\P21911001\\Downloads\\licenseUpdate_111.eci");
             byteArray("C:\\Users\\P21911001\\Downloads\\licenseInsert_55.eci");
             byteArray("C:\\Users\\P21911001\\Downloads\\licenseUpdate_55.eci");
-//            byteArray("C:\\Users\\P21911001\\Downloads\\licenseUpdate2_55.eci");
+            byteArray("C:\\Users\\P21911001\\Downloads\\licenseUpdate2_55.eci");
         } else if (gubun == "2") {
             contractNumber();
         } else if (gubun == "3") {
